@@ -5,9 +5,9 @@
 -  📫  Contate-me no email: danielsantosaraujo2010@hotmail.
 - 😄 Pronomes:  ele/dele
 <div align="center">
-  <a href="https://github.com/lapiedradaniel">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=daniel10&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel10&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://github.com/lapiedradaniel">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=daniel10&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <img align="center" alt="daniel-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
