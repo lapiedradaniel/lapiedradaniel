@@ -4,7 +4,6 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistema ...
 -  📫  Contate-me no email: danielsantosaraujo2010@hotmail.
 - 😄 Pronomes:  ele/dele
-
 <div align="center">
   <a href="https://github.com/lapiedradaniel">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=daniel10&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
