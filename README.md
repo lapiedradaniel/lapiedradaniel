@@ -4,7 +4,8 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistema ...
 -  📫  Contate-me no email: danielsantosaraujo2010@hotmail.
 - 😄 Pronomes:  ele/dele
-
+  
+<hr/>
   </br>
   </br>
    
@@ -21,9 +22,9 @@
   <img align="center" alt="Daniel-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Csh" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
-  
-  </br>
-  </br>
+  <hr/>
+  <br/>
+  <br/>
   
 <div style="display: inline_block" align = "center">
 <a href="https://www.youtube.com/channel/UC98IeQ25OWtp7IQnD0R-HcA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
