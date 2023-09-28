@@ -1,11 +1,16 @@
 ### Olá! eu sou Daniel 👋
+
 - 
 - 🔭 A procura da primeira oportunidade ...
 - 🌱 Estudando Análise e Desenvolvimento de Sistema ...
 -  📫  Contate-me no email: danielsantosaraujo2010@hotmail.
 - 😄 Pronomes:  ele/dele
-  
-<hr/>
+
+
+
+ #  <div align="center" > <a href="https://lapiedradaniel.github.io/Portifolio/#home" target="_blank">   Portifólio <a/></div>
+ 
+
   </br>
   </br>
    
@@ -22,7 +27,8 @@
   <img align="center" alt="Daniel-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Csh" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
-  <hr/>
+  
+<hr/>
   <br/>
   <br/>
   
