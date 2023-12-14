@@ -19,10 +19,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lapiedradaniel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lapiedradaniel&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 <br/>
 
-<h2 align="center">Meus Principais Projetos</h2>
-<br/>
+
 <div align="center">
   <a href="https://github.com/lapiedradaniel">
    <img width="379em" src="https://github-readme-stats.vercel.app/api/pin/?username=lapiedradaniel&repo=Lanches&theme=radical&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> 
