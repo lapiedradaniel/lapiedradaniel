@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/lapiedradaniel">
-   <img width="379em" src="https://github-readme-stats.vercel.app/api/pin/?username=lapiedradaniel&repo=Lanches&theme=radical&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> 
+  <a href="https://github.com/lapiedradaniel/Lanches" target="_blank"> <img width="379em" src="https://github-readme-stats.vercel.app/api/pin/?username=lapiedradaniel&repo=Lanches&theme=radical&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> </a>
    <img width="379em" src="https://github-readme-stats.vercel.app/api/pin/?username=lapiedradaniel&repo=Filmes-TMDB&theme=radical&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> 
 </div>
 <br/>
